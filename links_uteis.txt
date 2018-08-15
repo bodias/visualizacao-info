@@ -1,0 +1,15 @@
+2013 article : https://www.oreilly.com/ideas/11-essential-features-that-visual-analysis-tools-should-have
+2017 article : https://www.fingent.com/blog/7-awesome-data-visualization-tools
+Mobile analytics : https://www.techrepublic.com/pictures/mobile-analytics-10-great-apps-to-visualize-big-data-on-the-go/9/
+2018 review : https://www.pcmag.com/roundup/346417/the-best-data-visualization-tools
+2017-2018 Magic Quadrant overview : https://www.atscale.com/blog/magic-quadrant-for-analytics-and-business-intelligence-platforms-2018
+BI Magic Quadrant : http://www.jenunderwood.com/2018/03/07/analyzing-2018-gartner-bi-magic-quadrant-part-1/
+BI Magic Quadrant (Sisense) : https://www.sisense.com/gartner-magic-quadrant-business-intelligence/
+BI Magic Quadrant (Tableau) : https://www.tableau.com/pt-br/about/blog/2018/2/tableau-named-leader-gartner-magic-quadrant-six-years-row-82534
+BI Magic Quadrant (Microsoft) : https://powerbi.microsoft.com/en-us/blog/gartner-recognizes-microsoft-as-a-leader-in-analytics-and-bi-platforms-for-11-consecutive-years/
+Plotly : https://plot.ly/
+
+*** Check GA trends
+** Mode 1 mode 2 BI ???
+** UX principles?
+** Data democratization
