@@ -13,3 +13,17 @@ Plotly : https://plot.ly/
 ** Mode 1 mode 2 BI ???
 ** UX principles?
 ** Data democratization
+
+links da disciplina:
+
+https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520
+https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
+https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71
+https://www.computer.org/web/computingnow/archive/advance-information-visualization-july-2017-introduction?lf1=5611663987e888116114317f64497132
+https://github.com/lindbrook/cholera
+
+Storytelling
+https://paulovasconcellos.com.br/o-que-%C3%A9-data-storytelling-ac5a924dcdaf
+https://br.udacity.com/blog/post/big-data-storytelling
+http://cio.com.br/opiniao/2016/10/20/qual-e-a-real-diferenca-entre-data-storytelling-e-analise-de-dados/
+http://blog.kaggle.com/2017/04/10/exploring-the-structure-of-high-dimensional-data-with-hypertools-in-kaggle-kernels/
