@@ -7,6 +7,7 @@ BI Magic Quadrant : http://www.jenunderwood.com/2018/03/07/analyzing-2018-gartne
 BI Magic Quadrant (Sisense) : https://www.sisense.com/gartner-magic-quadrant-business-intelligence/
 BI Magic Quadrant (Tableau) : https://www.tableau.com/pt-br/about/blog/2018/2/tableau-named-leader-gartner-magic-quadrant-six-years-row-82534
 BI Magic Quadrant (Microsoft) : https://powerbi.microsoft.com/en-us/blog/gartner-recognizes-microsoft-as-a-leader-in-analytics-and-bi-platforms-for-11-consecutive-years/
+http://www.relevance.ro/Download/Gartner%20Magic%20Quadrant%20BI&Analytics%202018.pdf
 Plotly : https://plot.ly/
 
 *** Check GA trends
