@@ -28,3 +28,27 @@ https://paulovasconcellos.com.br/o-que-%C3%A9-data-storytelling-ac5a924dcdaf
 https://br.udacity.com/blog/post/big-data-storytelling
 http://cio.com.br/opiniao/2016/10/20/qual-e-a-real-diferenca-entre-data-storytelling-e-analise-de-dados/
 http://blog.kaggle.com/2017/04/10/exploring-the-structure-of-high-dimensional-data-with-hypertools-in-kaggle-kernels/
+
+Escolher :
+https://www.technos.com.br/1000002040_1l45aw-4p-pulso-preto-pulseira-preta-qz-technos/p
+https://www.technos.com.br/1000005544_t02139ae-4f-pulso-aco-fume-pulseira-silicone-digital/p
+https://www.technos.com.br/1000002064_2115mpb-2b-pulso-fume-pulseira-couro-qz-technos/p
+https://www.technos.com.br/1000004544_2115mog-k0a-pulso-aco-pulseira-couro-qz-technos/p
+
+aula 4 : tableau
+https://www.edureka.co/blog/tableau-tutorial/
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/
+
+Historico e detalhes da ferramenta, versões
+Hands-on - setup da fonte de dados
+			- SQL (só professor)
+			- Arquivos
+		 - setup das tabelas (joins - forçar join se o dataset não tiver)
+hands-on - criação de gráficos básicos - definir dataset (SF crime data?)
+	- encontrar padrões
+	- Validar hipoteses
+hands-on - criação de dashboard com os gráficos
+publicar dashboard 
+
+aula 6 : kibana
+https://medium.com/@wanderson.coord/kibana-incr%C3%ADvel-ferramenta-para-voc%C3%AA-analisar-suas-aplica%C3%A7%C3%B5es-bancos-e-servidores-6824d825b3da
