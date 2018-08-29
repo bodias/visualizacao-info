@@ -52,3 +52,30 @@ publicar dashboard
 
 aula 6 : kibana
 https://medium.com/@wanderson.coord/kibana-incr%C3%ADvel-ferramenta-para-voc%C3%AA-analisar-suas-aplica%C3%A7%C3%B5es-bancos-e-servidores-6824d825b3da
+
+Trabalho final da disciplina
+
+- Entrega de relatório/data story 
+- Apresentação dia 25/09 
+- Em *duplas
+- 60% da nota (10/10/10 trabalhos práticos + 10 bonus)
+
+Opções de trabalho
+Opção 1 : Descrever dataset
+			Utilizar técnicas de visualização vistas na aula para ressaltar propriedades do dataset.
+			Encontrar padrões e curiosidades sobre os dados.			
+			Validar alguma hipotese por meio das visualizações.
+			Formato : Data Story (Tableau/R Markdown/Jupyter notebook/Powerpoint)
+			Exemplo de datasets : 
+			http://www.datapoa.com.br/
+			http://dados.rs.gov.br/
+			https://archive.ics.uci.edu/ml/datasets.html
+			https://www.kaggle.com/datasets
+			
+Opção 2 : Descrever ferramenta
+			Avaliar críticamente uma ferramenta de visualização (não vista em aula).
+			Utilizar competências descritas pelo Gartner como guia.
+			Apresentar características básicas da ferramenta utilizando um dataset simples.
+			Formato : Relatório (PDF)
+			Exemplo de datasets: http://www.idvbook.com/teaching-aid/data-sets/
+			
