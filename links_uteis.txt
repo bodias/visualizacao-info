@@ -38,18 +38,6 @@ https://www.technos.com.br/1000004544_2115mog-k0a-pulso-aco-pulseira-couro-qz-te
 aula 4 : tableau
 https://www.edureka.co/blog/tableau-tutorial/
 https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/
-
-Historico e detalhes da ferramenta, versões
-Hands-on - setup da fonte de dados
-			- SQL (só professor)
-			- Arquivos
-		 - setup das tabelas (joins - forçar join se o dataset não tiver)
-hands-on - criação de gráficos básicos - definir dataset (SF crime data?)
-	- encontrar padrões
-	- Validar hipoteses
-hands-on - criação de dashboard com os gráficos
-publicar dashboard 
-
 https://onlinehelp.tableau.com/current/pro/desktop/pt-br/help.htm#getstarted_web_authoring.html
 
 aula 6 : kibana
