@@ -50,8 +50,20 @@ hands-on - criação de gráficos básicos - definir dataset (SF crime data?)
 hands-on - criação de dashboard com os gráficos
 publicar dashboard 
 
+https://onlinehelp.tableau.com/current/pro/desktop/pt-br/help.htm#getstarted_web_authoring.html
+
 aula 6 : kibana
 https://medium.com/@wanderson.coord/kibana-incr%C3%ADvel-ferramenta-para-voc%C3%AA-analisar-suas-aplica%C3%A7%C3%B5es-bancos-e-servidores-6824d825b3da
+
+install.packages("RServe")
+library(Rserve)
+Rserve()
+
+SCRIPT_INT("
+set.seed(42);
+result <- kmeans(data.frame(.arg1,.arg2,.arg3,.arg4),3);
+result$cluster;",
+sum([Sepal Length]),sum([Sepal Width]),sum([Petal Length]),sum([Petal Width]) )
 
 Trabalho final da disciplina
 
@@ -78,4 +90,12 @@ Opção 2 : Descrever ferramenta
 			Apresentar características básicas da ferramenta utilizando um dataset simples.
 			Formato : Relatório (PDF)
 			Exemplo de datasets: http://www.idvbook.com/teaching-aid/data-sets/
+			
+			
+Responder as seguintes questões:
+	Qual a relação entre tipo de crime e a resolução? (comparar)
+	Que dia da semana ocorrem mais crimes?
+	Em quais anos o número de crimes cresceu, em comparação ao ano anterior?
+	Em 2014 a taxa de crescimento foi negativa, isso se deve a uma redução geral dos crimes em todos os distritos?
+	É possível notar que, nos últimos 6 anos, o crime de prostituição tem se concentrado em algumas áreas da cidade. Você conseguiria mostrar em quais delegacias estão concentrados esses tipos de ocorrências e sugeriria a integração de algumas delas?
 			
