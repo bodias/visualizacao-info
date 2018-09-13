@@ -54,3 +54,7 @@ result$cluster;",
 sum([Sepal Length]),sum([Sepal Width]),sum([Petal Length]),sum([Petal Width]) )
 
 http://www.visual-literacy.org/periodic_table/periodic_table.html
+https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725
+https://www.dashingd3js.com/binding-data-to-dom-elements
+https://www.tutorialspoint.com/d3js/d3js_selections.htm
+https://square.github.io/intro-to-d3/web-standards/
